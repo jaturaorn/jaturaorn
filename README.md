@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaturaporn Sutongkeaw
 =============================================================================================================================================
 
-Junior software developer | Junior software developer learner at Generation Thailand
+Junior software developer
 ------------------------------------------------------------------------------------
 
 I've been learning to code for 4 months, after switching careers. I started with HTML/CSS , Javascript , React , Node.js(Express) , MongoDB , but have really found a passion for front-end development...
